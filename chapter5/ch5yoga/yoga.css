@@ -1,0 +1,62 @@
+body {
+    background-color: #fbfaf8; /* bgc#fbfaf8 */
+    color: rgb(56, 56, 56); /* c#555 */
+    font-family: Veranda, Arial , sans-serif;
+  }
+  header {
+    background-color: #9CBFC2; /* bgc#b2c9ab */
+    color: rgb(56, 56, 56); /* c#fff*/
+    background-image: url(yoga_images/lilyheader.jpg); /* bgi */
+    background-position: right; /* bgdp */
+    background-repeat: no-repeat; /* bgr */
+    line-height: 400%; /* lh400% */
+    text-indent: 1em; /* txi */
+  }
+  nav {
+    background-color: #fbfaf8; /* bgc#bbdefb */
+    font-weight: bold; /* fwb */
+    text-align: center; /* tac */
+  }
+  nav a {
+    text-decoration: none; /* txd */
+    text-decoration: none; /* txd */
+    padding: 24px; /* padding between top nav links */
+  }
+  nav ul {
+    list-style-type: none; /* removed bullets from ul */
+  }
+  nav li {
+    display: inline; /* display top nav horizontally */
+  }
+  li {
+    font-size: 90%;
+  }
+  dd {
+    font-size: 90%;
+  }
+  h1 {
+      margin-bottom: 0;/* mb0 */
+  }
+  main li {
+    list-style-type: circle;
+  }
+  h2 {
+    background-color: #C4D1F2;
+    color: rgb(56, 56, 56) /* c#1976d2 */
+  }
+  dt {
+    color: rgb(56, 56, 56); /* c#002171 */
+    list-style-type: circle;
+  }
+div {
+    font-size: 90%;
+}
+.feature {
+    color: #000;
+}
+footer {
+  font-size: 75%; /* fz75% */
+  font-style: italic; /* fsi */
+  text-align: center; /* txa */
+  background-color: #9cbfc2;
+}
